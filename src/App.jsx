@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import './App.css';
-import FormEmployee from './FormEmployee';
+import FormFilm from './FormFilm';
 
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <FormEmployee />
+        <FormFilm />
       </div>
     );
   }
